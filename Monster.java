@@ -44,4 +44,8 @@ public class Monster {
 		return _strength;
 	}
 	
+	public int getHP() {
+		return _hp;
+	}
+	
 }
